@@ -33,5 +33,6 @@
         include('../admin/connect.php');?>
 
 <p>Danh pro</p>
+<p>cho Danh</p>
 
 <body class="dashboard" data-aos-easing="ease-out-quart" data-aos-duration="500" data-aos-delay="0">
